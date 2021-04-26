@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test Task Pulttaxi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="terms_of_agreement_text">Ознакомьтесь с договором-оферты. Регистрируясь или авторизуясь, вы принимаете его условия</string>
+    <string name="enter_your_phone_number_hint"><small>Введите номер вашего телефона</small></string>
+    <string name="mask"><small>+7   ################</small></string>
+
+</resources>
