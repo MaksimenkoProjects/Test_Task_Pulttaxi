@@ -41,7 +41,7 @@ class EnterCodeViewModel @Inject constructor(
         val timer = object : CountDownTimer(16000, 1000) {
             override fun onTick(millisUntilFinished: Long) {
                 timerText.value =
-                    "Повторно отправить СМС с кодом можно будет через ${millisUntilFinished / 1000} секунд"
+                    "Повторно отправить СМС с кодом можно будет \n через ${millisUntilFinished / 1000} секунд"
             }
 
             override fun onFinish() {
